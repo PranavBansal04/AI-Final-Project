@@ -73,7 +73,7 @@ Use the following commands to play the game:
         
   Below is a sample run:
   
-  ![image](https://github.com/emilyjcosta5/AI-Final-Project/blob/main/Images/game_example.png?raw=true)
+  ![image](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/game_example.png?raw=true)
   
 
 - To play Wordle using an AI player,
@@ -82,7 +82,7 @@ Use the following commands to play the game:
         
   Below is a sample run for algorithms.py:
   
- ![img2](https://github.com/emilyjcosta5/AI-Final-Project/blob/main/Images/algo_run.png?raw=true)
+ ![img2](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/algo_run.png?raw=true)
 
 
 - To evaluate the performance of different algorithms,
@@ -92,3 +92,10 @@ Use the following commands to play the game:
   All the outputs are generated inside the output folder.
 
 
+
+## Performance Analysis of the Algorithms
+
+
+![img112](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/wordle_cmp_algos.png?raw=true)
+
+![img11](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/cmp_word_length.png?raw=true)
