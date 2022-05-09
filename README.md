@@ -87,7 +87,7 @@ Use the following commands to play the game:
   Below is a sample run for algorithms.py:
 
 <p align="center">
-    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/algo_run.png?raw=true" width=270 height=350>
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/algo_runs.png?raw=true" width=270 height=350>
 </p>
   
 
