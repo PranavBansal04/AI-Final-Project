@@ -102,6 +102,11 @@ Use the following commands to play the game:
 ## Performance Analysis of the Algorithms
 
 
-![img112](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/wordle_cmp_algos.jpg?raw=true)
+<p align="center">
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/wordle_cmp_algos.jpg?raw=true" width=600 height=400>
+</p>
 
-![img11](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/cmp_word_length.jpg?raw=true)
+
+<p align="center">
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/cmp_word_length.jpg?raw=true" width=400 height=400>
+</p>
