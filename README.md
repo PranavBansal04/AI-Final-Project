@@ -72,9 +72,12 @@ Use the following commands to play the game:
         $ python main.py
         
   Below is a sample run:
-  
-  ![image](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/game_example.png?raw=true)
-  
+
+  <p align="center>
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/game_example.png?raw=true" width="400" height="600">
+  </p>
+
+
 
 - To play Wordle using an AI player,
 
