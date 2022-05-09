@@ -73,9 +73,10 @@ Use the following commands to play the game:
         
   Below is a sample run:
 
-  <p align="center>
-    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/game_example.png?raw=true" width="400" height="600">
-  </p>
+
+<p align="center">
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/game_example.png?raw=true" width=250 height=350>
+</p>
 
 
 
@@ -84,9 +85,11 @@ Use the following commands to play the game:
         $ python algorithms.py
         
   Below is a sample run for algorithms.py:
-  
- ![img2](https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/algo_run.png?raw=true)
 
+<p align="center">
+    <img src="https://github.com/pranavbansal04/AI-Final-Project/blob/main/Images/algo_run.png?raw=true" width=270 height=350>
+</p>
+  
 
 - To evaluate the performance of different algorithms,
   
